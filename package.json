@@ -1,0 +1,20 @@
+{
+  "name": "dmef",
+  "version": "0.0.1",
+  "description": "Double Minimal Expressjs Like Framework, it can be used for experimentation and learning purposes.",
+  "files": ["App.js"],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ismnoiet <ismnoiet@gmail.com>",
+  "license": "MIT",
+  "tags":[
+  	"framework",
+  	"express",
+  	"learn",
+  	"experiment",
+  	"js"
+  ]
+  
+}
+
