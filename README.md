@@ -33,7 +33,7 @@ node example/index.js
 ```
 
 ## TODO
-* lots of cool stuff is coming!
+* Add other essential parts. 
 
 ## License
 
