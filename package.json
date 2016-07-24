@@ -1,12 +1,19 @@
 {
   "name": "dmef",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "Double Minimal Expressjs Like Framework, it can be used for experimentation and learning purposes.",
-  "files": ["App.js"],
+  "main": "App.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "ismnoiet <ismnoiet@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ismnoiet/dmef.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ismnoiet/dmef/issues"
+  },
   "license": "MIT",
   "tags":[
   	"framework",
